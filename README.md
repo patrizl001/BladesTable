@@ -95,5 +95,5 @@ to port it to another system.
 
 *Blades of Ether* is by Alexis Eva, Kaylee Maya and Ruby Soleil-Raine (gears.link/blades), released under
 CC BY-NC-SA 4.0. The rules text and data in `boe/data/` are derived from that rulebook and are shared
-under the same licence (see `boe/data/NOTICE.md`); non-commercial use only. The rulebook itself is not
-included. The licence for the project's own code is MIT-licensed. This is an unofficial fan project
+under the same license (see `boe/data/NOTICE.md`); non-commercial use only. The rulebook itself is not
+included. The license for the project's own code is MIT-licensed. This is an unofficial fan project
