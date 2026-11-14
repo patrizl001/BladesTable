@@ -1,0 +1,2759 @@
+{
+ "talents": [
+  {
+   "id": "social_butterfly",
+   "name": "Social Butterfly",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "People are naturally friendly towards you unless they have a reason not to be.",
+   "page": 40
+  },
+  {
+   "id": "fame",
+   "name": "Fame",
+   "rank": null,
+   "rank_min": 1,
+   "rank_max": 10,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Be it for your deeds, your work, or just because you're that cute, you're well known somewhere across the Cloud Sea. In any place where you're a household name, people are more likely to offer you aid, privileges, deals, or service. Higher ranks of this ability award more fame.",
+   "page": 40
+  },
+  {
+   "id": "infamy",
+   "name": "Infamy",
+   "rank": null,
+   "rank_min": 1,
+   "rank_max": 10,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Whether you had to make a difficult choice, you did something unpopular, or you're just plain evil, people know they hate you. They're likely to be afraid of you, often avoiding you and more easily giving in to your threats. Higher ranks of this ability award more infamy.",
+   "page": 40
+  },
+  {
+   "id": "troublemaker",
+   "name": "Troublemaker",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "At any time, you are able to declare that someone in the room, for some reason, hates you. The Architect will tell you which person. Describe the reason why.",
+   "page": 40
+  },
+  {
+   "id": "friend_of_nature",
+   "name": "Friend of Nature",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "empathy": 4
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Animals innately feel comfortable around you. Timid animals will not flee in your presence, and aggressive animals will not attack you unless provoked.",
+   "page": 40
+  },
+  {
+   "id": "use_five_words_when_one_would_do",
+   "name": "Use Five Words When One Would Do",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you use your eloquent way of speech and strange affectations for communication, you might confuse or mislead your conversational partner, giving you +1 to any related rolls.",
+   "page": 40
+  },
+  {
+   "id": "natural_leader",
+   "name": "Natural Leader",
+   "rank": 6,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you give orders to someone who does not know you, they will listen to you, assuming you probably know what you're talking about, so long as your order is within the realm of believability.",
+   "page": 41
+  },
+  {
+   "id": "pouch_of_goodies",
+   "name": "Pouch of Goodies",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You carry a supply of small trinkets and treats, and have a good sense for who might like them. At any time, you may ask the Architect what sort of small gift a character might like, and they will answer honestly. So long as you've kept your pouch stocked, you have just the thing to win them over!",
+   "page": 41
+  },
+  {
+   "id": "im_not_sure_about_rain_though",
+   "name": "I'm Not Sure About Rain, Though",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You have an innate sense of the weather and always know what tomorrow's will bring.",
+   "page": 41
+  },
+  {
+   "id": "wanderers_sense",
+   "name": "Wanderer's Sense",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "gut": 5
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You have an innate sense of direction… sort of. When you choose a direction and walk in it, relying solely on instinct, you may or may not end up where you intended to go, but you will definitely wind up somewhere interesting.",
+   "page": 41
+  },
+  {
+   "id": "ricky_likes_fighting_easy_monsters",
+   "name": "Ricky Likes Fighting Easy Monsters",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can always tell how strong an enemy is relative to you.",
+   "page": 41
+  },
+  {
+   "id": "play_the_stage",
+   "name": "Play the Stage",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If you need a particular outfit or costume for something, you always have it. Similarly, if you need an environmental object as a prop, it will be there if reasonable.",
+   "page": 41
+  },
+  {
+   "id": "i_like_you_kid",
+   "name": "I Like You, Kid",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "passion": 4
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you fail to convince someone non-hostile to aid you in something you deeply care about, your honesty still gets through to them. Although they will not do what you ask, they will give you some concession.",
+   "page": 41
+  },
+  {
+   "id": "like_a_mirror",
+   "name": "Like a Mirror",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You always know if someone is lying to you.",
+   "page": 41
+  },
+  {
+   "id": "devils_own_luck",
+   "name": "Devil's Own Luck",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You've got amazing luck, while everyone else around you finds themselves with the opposite.",
+   "page": 41
+  },
+  {
+   "id": "friends_now",
+   "name": "Friends Now!",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you beat someone in a fight, you are able to declare that you two have become friends, of sorts. Perhaps not good friends, but at the very least, you can see eye to eye.",
+   "page": 41
+  },
+  {
+   "id": "general_sense_of_things",
+   "name": "General Sense of Things",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If something doesn't make sense, feels unusual, or is a logical inconsistency, you can tell something's off. You don't inherently know what, but you can roll to find out..",
+   "page": 41
+  },
+  {
+   "id": "interpersonal_deduction",
+   "name": "Interpersonal Deduction",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "empathy": 4
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "Once per arc, you may ask the Architect how one character feels about another. The Architect will answer honestly.",
+   "page": 41
+  },
+  {
+   "id": "unsubtle_and_undetected",
+   "name": "Unsubtle and Undetected",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Despite whatever unmistakable features you may have, it only takes one special accessory for you to blend in, whether it be a pair of stylish specs, an unremarkable cloak, or something else entirely.",
+   "page": 41
+  },
+  {
+   "id": "to_make_heads_or_tails",
+   "name": "To Make Heads or Tails",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you take this talent, choose two arbitrary, opposing, and specific categories (such as dog-favoring or cat-favoring, lawful or chaotic, fire or ice). If unclear, you may explain what you mean by them. When you meet a new person, you may ask the Architect which category they would fit more closely into. They will answer honestly; describe why you feel this way.",
+   "page": 42
+  },
+  {
+   "id": "i_meant_to_do_that",
+   "name": "I Meant to Do That",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "improvisation": 4
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you fail a roll outside of combat, if you can quickly think of a way to use the resulting fallout to your advantage, you may roll again. If you succeed, you are guaranteed to have no negative consequences for the original roll. If you fail, however, you'll face double the consequences.",
+   "page": 42
+  },
+  {
+   "id": "shadowrunner",
+   "name": "Shadowrunner",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You know how to blend in, gaining +2 to rolls for avoiding detection or being identified.",
+   "page": 42
+  },
+  {
+   "id": "imposing",
+   "name": "Imposing",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Whether due to an intimidating demeanor or ominous reputation, you are an inherently frightening figure. When you make a threat, you gain +2 to convince your target to acquiesce. However, if your roll fails, you must follow through on your threat to uphold your reputation.",
+   "page": 42
+  },
+  {
+   "id": "just_a_flesh_wound",
+   "name": "Just a Flesh Wound",
+   "rank": 10,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "once",
+   "repeatable": false,
+   "text": "One time after taking this talent, you may cross this Talent out. After doing so, act as if you have filled your dead box, temporarily taking control of the narrative from the Architect to make what appears to be the ultimate sacrifice. However, thanks to a miracle (or, perhaps, an ingenious plan) you survive. You cannot refresh, repurchase, or reuse this talent ever. You might choose to hide the fact that you have this talent from other players if you like, but your partner will likely have to know.",
+   "page": 42
+  },
+  {
+   "id": "the_next_thing_youre_going_to_say_is",
+   "name": "The Next Thing You're Going to Say Is...",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "calculation": 5
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "Once per arc, you may ask the Architect what someone is going to do in the immediate future, allowing you to formulate a plan to use this knowledge to your advantage. You may do this in or out of combat.",
+   "page": 42
+  },
+  {
+   "id": "emotional_ties",
+   "name": "Emotional Ties",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can truly feel the bonds you share with the people around you. Whenever you are at +2 affinity with someone, you know where they are at all times, even if you cannot see them.",
+   "page": 42
+  },
+  {
+   "id": "building_through_conflict",
+   "name": "Building Through Conflict",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You're a pretty argumentative person, but somehow, it never seems to get in the way. Take no teamwork penalty when at -1 affinity, and only a -1 penalty at -2 affinity.",
+   "page": 42
+  },
+  {
+   "id": "i_love_you_and_all_you_guys",
+   "name": "I Love You...and All You Guys!",
+   "rank": 6,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "Once per arc, you may reduce a +2 affinity to a 0. If you do, increase your affinity with all other party member by 1. Explain what you did to cause this shift.",
+   "page": 42
+  },
+  {
+   "id": "mascot_character",
+   "name": "Mascot Character",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "general",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "A small, lovable creature has joined you and your companions! It is not sentient and cannot speak your language, but it's rather intelligent nonetheless, and manages to get its point across in simple noises and gestures. The creature is etheric in nature, and as it grows it may change and evolve in unexpected ways. When you take this talent, choose one of the following options for your mascot, and name and describe the creature you've bonded with. If another player already has this talent, purchasing it lets you give the party's mascot an additional ability and describe how its appearance changes with its new evolution. The Architect controls the mascot's behavior, and it may not always be inclined to help you. You cannot take this talent more than once. Eyes in The Sky: Your mascot's keen eyes and ability to fly allow for it to soar far above the ground and communicate to you a very general description of the surrounding area. Good Instincts: Your mascot has refined natural instincts and a good sense for sentient behavior, letting it intervene to prevent a foolhardy course of action. Titan-in-Training: Your mascot, a naturally etheric being, is in tune with the Titans, and can aid you in etheric pursuits and has generally good ether-sense. Just the Cutest: Your mascot is just so endearing to sentient beings. That loveable ball of fur might help you in a spat or tense situation! Natural Scavenger: Your mascot's sharp senses and refined instincts allow it to find food and valuable trinkets in the wild. Just don't let it loose in a busy market! One With the Hunt: While your mascot will not fight by your side, it knows how to stay alive in the wild, and may sometimes aid you in battle.",
+   "page": 43
+  },
+  {
+   "id": "immovable_gonzalez",
+   "name": "Immovable Gonzalez",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When someone is launched into you, you take no damage and are not broken. The launched person acts as though you were a wall, stopping in front of you and taking collision damage.",
+   "page": 43
+  },
+  {
+   "id": "vendetta",
+   "name": "Vendetta",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you take this talent, name one person. Whenever someone hurts that person in any way, take +1 to your next action against them.",
+   "page": 43
+  },
+  {
+   "id": "power_dive",
+   "name": "Power Dive",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you hit the deck to successfully dodge an attack. You cannot move or attack on your next turn, but until the end of your following turn, you have +1 to all actions.",
+   "page": 43
+  },
+  {
+   "id": "switch_art",
+   "name": "Switch Art",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you may use one of your partner's arts so long as it is ready. If you do, you swap weapons with them, trading access for each other's arts and basic attack ranges. This effect ends when your partner uses one of your arts.",
+   "page": 43
+  },
+  {
+   "id": "crisis_catalyst",
+   "name": "Crisis Catalyst",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you are at or below one quarter of your maximum HP, rounded down, gain +2 to all attack rolls.",
+   "page": 44
+  },
+  {
+   "id": "desperate_defense",
+   "name": "Desperate Defense",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you are at or below one quarter of your maximum HP, rounded down, gain +2 to all defense rolls.",
+   "page": 44
+  },
+  {
+   "id": "secondary_accelerator",
+   "name": "Secondary Accelerator",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Reduce one of your starting arts cooldowns by two at the beginning of combat.",
+   "page": 44
+  },
+  {
+   "id": "prime_position",
+   "name": "Prime Position",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [
+     "secondary_accelerator"
+    ],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Reduce one additional starting arts cooldown by two, meaning you start with two arts ready and one two turns away.",
+   "page": 44
+  },
+  {
+   "id": "grand_procession",
+   "name": "Grand Procession",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You strike with a charisma that raises your party's morale. When you use a special attack, all other teams receive two special points.",
+   "page": 44
+  },
+  {
+   "id": "tactical_delay",
+   "name": "Tactical Delay",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "At any time, you may move yourself down in the turn order by any number.",
+   "page": 44
+  },
+  {
+   "id": "the_last_laugh",
+   "name": "The Last Laugh",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, if you have at least one full special die, you may perform as your action a first level special attack regardless of the current special attack combination. This attack consumes all of your team's special points. After using this talent, your team cannot gain any special points for the rest of this combat.",
+   "page": 44
+  },
+  {
+   "id": "rematch",
+   "name": "Rematch",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If you are fighting someone who bested you in a previous encounter, you automatically get to start at the top of the turn order.",
+   "page": 44
+  },
+  {
+   "id": "rigid_shield",
+   "name": "Rigid Shield",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "On any turn you do not use an offensive action, you use your weapon to block. Before your next turn, you may protect yourself or a party member within your basic attack range from any one attack, granting +1 to that defense roll.",
+   "page": 44
+  },
+  {
+   "id": "what_goes_around",
+   "name": "What Goes Around…",
+   "rank": 7,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Gain 1 special point whenever you take damage.",
+   "page": 44
+  },
+  {
+   "id": "dirty_fighter",
+   "name": "Dirty Fighter",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Basic attacks and arts deal one additional damage to toppled targets if you are within one square of the target. You may not move after attacking with this bonus.",
+   "page": 44
+  },
+  {
+   "id": "point_blank",
+   "name": "Point Blank",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you may reduce the range of one of your arts or your basic attack to 1 until the end of this turn. If you do, it gains a dice pool bonus equal to its normal range for this turn's attack.",
+   "page": 44
+  },
+  {
+   "id": "eagle_eye",
+   "name": "Eagle Eye",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you may execute an art or basic attack beyond its normal range. Doing so incurs a dice pool penalty equal to the number of squares the attack's maximum range is extended to. You cannot extend the range of your attack beyond the point where its dice pool falls to 1 die.",
+   "page": 44
+  },
+  {
+   "id": "exit_strategy",
+   "name": "Exit Strategy",
+   "rank": 9,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "calculation": 8
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "Once per arc, when the party has been completely defeated, you've already come up with a contingency plan and manage to get everyone to safety. Explain your plan after the fact.",
+   "page": 44
+  },
+  {
+   "id": "vanguard",
+   "name": "Vanguard",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you may give your turn to your partner.",
+   "page": 44
+  },
+  {
+   "id": "no_not_yet",
+   "name": "No...Not Yet!",
+   "rank": 8,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "willpower": 7
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Right before you are knocked unconscious, you steel your resolve for a final effort. If you will be reduced to zero HP and removed from battle, unleash a level two special attack regardless of the current special attack chain before falling unconscious. If your partner is already unconscious, you roll your chosen idea's attributes twice. If this non-lethally defeats the last enemy, you will return to consciousness before they do.",
+   "page": 45
+  },
+  {
+   "id": "your_patience_their_penitence",
+   "name": "Your Patience, Their Penitence",
+   "rank": 7,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If one or more of your arts is off cooldown at the end of your turn, gain one special point.",
+   "page": 45
+  },
+  {
+   "id": "first_strike",
+   "name": "First Strike",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You gain +3 to initiative rolls.",
+   "page": 45
+  },
+  {
+   "id": "indomitable",
+   "name": "Indomitable",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Increase your max HP by 2.",
+   "page": 45
+  },
+  {
+   "id": "fortified",
+   "name": "Fortified",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Increase your max HP by 4.",
+   "page": 45
+  },
+  {
+   "id": "steel_flesh",
+   "name": "Steel Flesh",
+   "rank": 6,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Increase your max HP by 6.",
+   "page": 45
+  },
+  {
+   "id": "opportunist",
+   "name": "Opportunist",
+   "rank": 6,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When a fight starts, you are always behind an opponent of your choice. You may describe how you got there, or leave it to mystery.",
+   "page": 45
+  },
+  {
+   "id": "think_you_can_take_me",
+   "name": "THINK YOU CAN TAKE ME?",
+   "rank": 6,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you may let loose a loud battle cry, startling everyone not on your team and forcing them back by 1 in the turn order.",
+   "page": 45
+  },
+  {
+   "id": "villains_monologue",
+   "name": "Villain's Monologue",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {
+     "calculation": 4
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "After you roll initiative, you may deliver an enthralling speech about your grand scheme. No one is allowed to make a move while you talk. Once you are finished, everyone except for you rerolls initiative. As your plan has been exposed, you are moved to the end of the turn order. You may not use this talent if you have been ambushed.",
+   "page": 45
+  },
+  {
+   "id": "say_sorry",
+   "name": "Say Sorry",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Whenever you deal damage to a target without inflicting an elemental effect on them, you may remove all negative elemental effects currently applied to them. If you do this, you inflict 2 additional damage per effect removed.",
+   "page": 45
+  },
+  {
+   "id": "healer",
+   "name": "Healer",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When you use an art, instead of attacking a target with it, you may roll unopposed to heal yourself or an ally for HP equivalent to the number of successes on your roll. For the rest of this combat, you may only use the effect of this talent with the same art you used. When you heal in this way, you must also reset the cooldown of a ready art or, if neither other art is ready, the art with the lowest current cooldown die.",
+   "page": 45
+  },
+  {
+   "id": "elite_healer",
+   "name": "Elite Healer",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [
+     "healer"
+    ],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Healer now targets a full team instead of only one ally.",
+   "page": 45
+  },
+  {
+   "id": "master_healer",
+   "name": "Master Healer",
+   "rank": 7,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "universal",
+   "kind": "combat",
+   "role": "any",
+   "requires": {
+    "attributes": {},
+    "talents": [
+     "elite_healer"
+    ],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Healer now targets all allies instead of only one team.",
+   "page": 45
+  },
+  {
+   "id": "old_friends",
+   "name": "Old Friends",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": true,
+   "text": "Whether inseparable since childhood or near-strangers from the far side of town, you've made allies you can call on. When you take this talent, name a person or group of people from your past. You can call on them for aid within the bounds of their skills and trust in you. You may take this talent multiple times, naming a different friend or group each time.",
+   "page": 46
+  },
+  {
+   "id": "sidearm",
+   "name": "Sidearm",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You have an additional Blade gifted in long-range operation. They won't fight alongside you in combat, but you may send them off to accomplish tasks such as spying on an enemy, guarding an area, or making a delivery. This Blade is their own person, of course, and is under no obligation to listen.",
+   "page": 46
+  },
+  {
+   "id": "bond_sever",
+   "name": "Bond Sever",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {
+     "attunement": 3
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "After knocking a Bearer unconscious, you may choose to permanently cut their connection with their Blade, reverting it to an unbonded core. Many consider this murder, but you're not afraid to do what needs to be done.",
+   "page": 46
+  },
+  {
+   "id": "they_were_here_the_whole_time",
+   "name": "They Were Here the Whole Time!",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If you are in a scene and your Blade is not present, you may declare at any time that they, in fact, have not only been there the entire time, but are acting on a plan you two devised in secret beforehand.",
+   "page": 46
+  },
+  {
+   "id": "titan_driver",
+   "name": "Titan Driver",
+   "rank": 10,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "You know the cycle of life: Blades, after enough lifetimes, become Titans, who birth new Blades. With this knowledge, you have discovered that the Blade within allows you, if only temporarily, to bond with a Titan. Once per arc, you may issue one command to the nearest Titan, and they will listen unless it would do severe harm to them.",
+   "page": 46
+  },
+  {
+   "id": "brought_from_home",
+   "name": "Brought From Home",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "The Titan you come from is so distant that it's unlikely anyone you encounter on your travels will have even heard of it, much less have visited. As a result, you have a piece of technology or scientific information that no one nearby is remotely familiar with. Discuss what this is with the Architect when you take this talent.",
+   "page": 46
+  },
+  {
+   "id": "steel_stomach",
+   "name": "Steel Stomach",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {
+     "stamina": 4
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can eat pretty much anything. Whether it's raw meat or literal poison, you'll be fine.",
+   "page": 46
+  },
+  {
+   "id": "hometown",
+   "name": "Hometown",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "No matter how far away you've traveled or how long you've been gone, when you return, there's always a soft bed and a hot meal waiting for you and your allies back home. Once in a while, you might receive a letter from home, perhaps with a useful item or opportunity.",
+   "page": 46
+  },
+  {
+   "id": "youve_done_it_now",
+   "name": "You've Done it Now!",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Gain +2 to all rolls if all your Blades are incapacitated.",
+   "page": 47
+  },
+  {
+   "id": "stealth_strike",
+   "name": "Stealth Strike",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If your Blade used the talent Distracting Strike on their last turn, and you attack the same target, they cannot defend against your attack, and positional tag bonuses apply regardless of your location.",
+   "page": 47
+  },
+  {
+   "id": "to_me",
+   "name": "To Me!",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you strike and then call your Blade to your side, moving their turn to immediately after yours. If your Blade has the talent To You!, you may activate both of these talents at once, each declare an attack, and add your successes together for any targets you both hit. This double attack counts as this turn cycle's action for both of you.",
+   "page": 47
+  },
+  {
+   "id": "summon_art",
+   "name": "Summon Art",
+   "rank": 7,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Instead of activating your arts on your turn, you summon them, manifesting their etheric essences in a ready state and holding onto them. After summoning an art, the art's cooldown starts ticking as normal, and you can choose to use the art at any time, including on others' turns. You may hold up to three summoned arts at a time, including duplicates of the same art.",
+   "page": 47
+  },
+  {
+   "id": "quick_step",
+   "name": "Quick Step",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {
+     "swiftness": 3
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can move up to 4 squares per turn and easily scale climbable objects.",
+   "page": 47
+  },
+  {
+   "id": "fleet_of_foot",
+   "name": "Fleet of Foot",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {
+     "swiftness": 5
+    },
+    "talents": [
+     "quick_step"
+    ],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can move up to 5 squares per turn and leap across gaps with ease.",
+   "page": 47
+  },
+  {
+   "id": "bondsight",
+   "name": "Bondsight",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {
+     "attunement": 7
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can see the flow of ether that ties Blades to Bearers. By intentionally positioning yourself between enemy partners to obstruct their bond, you give both Blade and Bearer -1 to all actions until one of them moves. You are immune to pincer attacks while this is in effect. This effect only activates if your movement is what puts you in place.",
+   "page": 47
+  },
+  {
+   "id": "aura_field",
+   "name": "Aura Field",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can tap your Blade's ether to create a shield, fully protecting yourself and anyone in up to three consecutive squares behind you from one attack. You may use this talent at any time, but you cannot take an action on your next turn when you do, and you may not use this ability again until after that turn.",
+   "page": 47
+  },
+  {
+   "id": "trebu_blade",
+   "name": "Trebu-Blade",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you may roll unopposed to use a launch art on your Blade. Your Blade does not need to be broken and does not take any damage or effects from your art attack. If your Blade is launched into someone, they become the target of your art attack, and take all the damage and non-launch effects from the art you used if they fail a defense roll in addition to launch collision damage.",
+   "page": 47
+  },
+  {
+   "id": "cut_the_cord",
+   "name": "Cut the Cord",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "bearer",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can stymie the flow of ether through your body to fend off illness, taking 2 damage to remove one elemental effect of your choice.",
+   "page": 47
+  },
+  {
+   "id": "ghosts_of_the_past",
+   "name": "Ghosts of the Past",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": true,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Whatever you did in your last life, you made a great impact. Every so often, someone will recognize you and comment on your past deeds. Whether the mysteries of this Blade's past are yours or the Architect's for keeping is up to you.",
+   "page": 48
+  },
+  {
+   "id": "record_keeper",
+   "name": "Record Keeper",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": true,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Maybe your core is a family heirloom. Maybe it's a weapon historically used by a major government. In any case, it's never been a mystery what's going to happen to you after your Bearer dies. As a result, you've been able to keep a journal spanning many past lives.",
+   "page": 48
+  },
+  {
+   "id": "jet_boots",
+   "name": "Jet Boots",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Rather than walk, you hover slightly off the ground. This allows you to float over water and traverse any rough ground with ease. However, you'll still fall if there isn't some surface a few inches below you.",
+   "page": 48
+  },
+  {
+   "id": "restless",
+   "name": "Restless",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Unlike other Blades, you have no need for sleep, ether itself being enough to keep you standing.",
+   "page": 48
+  },
+  {
+   "id": "shapeshifter",
+   "name": "Shapeshifter",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "While Blades' forms are ethereal and can change in minor ways, you have far more skill at manipulating your form than most. You can take on any form, humanoid, beastly, or even as an inanimate object, though you cannot significantly change your overall size. Your core will always be visible somewhere on your body, but you can hide it through mundane means.",
+   "page": 48
+  },
+  {
+   "id": "symbiosis",
+   "name": "Symbiosis",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "More than just a part of a Titan's etheric ecosystem, you've spoken to the great beings enough to develop a relationship with them. Once you've spent enough time on a particular Titan, you can commune with them through the ether. You could ask them for guidance, or even possibly for aid; they might move a limb to open a path for you, tilt towards the Cloud Sea to let you back up, or offer other such services that only a being as massive, slow, and wise as a Titan can.",
+   "page": 48
+  },
+  {
+   "id": "protective_aegis",
+   "name": "Protective Aegis",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You may give any amount of your HP to your Bearer at any time during your turn, and you do not pay the additional 1 HP cost to save your Bearer from unconsciousness.",
+   "page": 48
+  },
+  {
+   "id": "final_flicker",
+   "name": "Final Flicker",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If you do not have enough HP to restore your Bearer to consciousness, you may restore your Bearer to 1 HP at the cost of all of your remaining HP.",
+   "page": 48
+  },
+  {
+   "id": "essence_exchange",
+   "name": "Essence Exchange",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you may give up any amount of your HP, converting it to special points.",
+   "page": 49
+  },
+  {
+   "id": "to_you",
+   "name": "To You!",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat, you strike and then make way for your Bearer to follow up, moving their turn to directly follow this one. If your Bearer has the talent To Me!, you may activate both of these talents at once, each declare an attack, and add your successes together for any targets you both hit. This double attack counts as this turn cycle's action for both of you.",
+   "page": 49
+  },
+  {
+   "id": "living_amalgam",
+   "name": "Living Amalgam",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You have assimilated an unforged core into yourself, gaining the powers of the Blade sleeping within. You gain your choice of +1 radius movement per turn, +3 initiative, or +4 HP. Whether you consume this Blade's consciousness utterly, leaving only shreds of their personality behind, or allow them to live on as a part of you and share your body is up to you.",
+   "page": 49
+  },
+  {
+   "id": "distracting_strike",
+   "name": "Distracting Strike",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat after rolling a successful attack, you strike with an attention-grabbing flash, forcing your target to face in a direction of your choosing until their next turn, regardless of other attacks inflicted on them. If your Bearer has the Bearer talent Stealth Strike, they can capitalize on your effort with their next attack.",
+   "page": 49
+  },
+  {
+   "id": "ghost_factory",
+   "name": "Ghost Factory",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "You've mastered the modulation of your etheric presence to such an extent that you can appear to be in two places at once. Once per combat, as long as you are within your radii, you can create an illusory duplicate. This duplicate stays in the same radius as you, and you can attack from either you or your illusion's position. If an enemy attacks it, they automatically miss, and the duplicate disappears. If you are attacked, defend as normal, and the duplicate disappears due to your lapse in concentration. If you go beyond your highest radius the duplicate also disappears. Outside of combat, so long as you are near your Bearer, you may summon your duplicate and act through it. You can only focus as much as normal, however, so attempting to do two different tasks at once will be challenging.",
+   "page": 49
+  },
+  {
+   "id": "parry",
+   "name": "Parry",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If your Bearer is targeted by an attack from an enemy occupying a square in your current radius or higher, you may choose to take the blow without defending, receiving both the damage and effects from it. If you do, you are moved to the nearest square between the attacker and your Bearer, or adjacent to the attacker if they are within your first radius.",
+   "page": 49
+  },
+  {
+   "id": "orbital_death_beam",
+   "name": "Orbital Death Beam",
+   "rank": 10,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "Somehow, you've wound up etherically tapping into the controls for an ancient planetary defense system. Once per arc, so long as you have a direct view of the sky, you can call down rays of searing light to blast all enemies. Roll a basic attack, ignoring range, with an attribute of your choice. All enemies that are hit receive all negative elemental effects.",
+   "page": 49
+  },
+  {
+   "id": "mister_eddy",
+   "name": "Mister Eddy",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Whether you more closely resemble a large animal than a human or you're just that much taller than your Bearer, they can comfortably sit on you while you walk around. In combat, you're used to fighting while your Bearer is on your back. When you two are together like this, you occupy the same square and face the same way. On your turn, instead of moving in radii around your Bearer, you may move up to six squares per turn (this distance cannot be doubled by not attacking, and does not stack with other movement bonuses). When you do, your Bearer is moved with you. Your Bearer may also move both of you six squares on their turn. Unless using an area of effect attack, enemies must choose only one of you to hit. If either of you are broken, toppled, or launched, your Bearer is forced off of you into the adjacent square farthest from the enemy. Your Bearer may mount or dismount you from an adjacent square on their turn at the cost of all their remaining movement that turn, including movement gained by being mounted.",
+   "page": 50
+  },
+  {
+   "id": "radius_master",
+   "name": "Radius Master",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You take no penalty in your third radius and can act in a fourth and fifth radius at -1.",
+   "page": 50
+  },
+  {
+   "id": "swift_slide",
+   "name": "Swift Slide",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {
+     "swiftness": 4
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can move an additional radius on your turn.",
+   "page": 50
+  },
+  {
+   "id": "expeditionist",
+   "name": "Expeditionist",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You can move up to two squares per turn outside your maximum radius and take actions at the better of half your normal roll rounded up or a -3 penalty.",
+   "page": 50
+  },
+  {
+   "id": "premonitions",
+   "name": "Premonitions",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {
+     "attunement": 2
+    },
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Your attunement to the flow of ether sometimes grants you glimpses of the future. Once per combat, these visions enable you or your Bearer to reroll a failed attempt to avoid damage.",
+   "page": 50
+  },
+  {
+   "id": "forgotten_flash",
+   "name": "Forgotten Flash",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "blade",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "Lost memories from a previous Bearer sometimes briefly return to you in the heat of battle. Once per arc, you may exchange one tag on an art for any other valid tag for one use of that art.",
+   "page": 50
+  },
+  {
+   "id": "the_odd_couple",
+   "name": "The Odd Couple",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "pair",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "The time you've spent together has led you to a unique and inscrutable way of interacting. Your shared mannerisms are so eccentric that you can easily be heard but not understood, seen but not comprehended, to the point where people's confusion will let you get away with nearly anything together.",
+   "page": 51
+  },
+  {
+   "id": "three_core_monte",
+   "name": "Three-Core Monte",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "pair",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Due to an … unscrupulous past, the two of you have a go-to con that you have down to a science. When you perform this con in a populous area, you will attract a victim who you can extort for money, goods, or information. Do this too often in one place, however, and you may get some unwanted attention.",
+   "page": 51
+  },
+  {
+   "id": "its_like_we_finish_each_others",
+   "name": "It's Like We Finish Each Other's…",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "pair",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "The two of you know each other's mannerisms and body language so well that you can silently communicate in a way that's almost imperceptible, let alone comprehensible, to others. You can do this so well, in fact, that you can hold entire conversations without anyone else in the room even knowing.",
+   "page": 51
+  },
+  {
+   "id": "sandwiches",
+   "name": "…Sandwiches!",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "pair",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [
+     "its_like_we_finish_each_others"
+    ],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "When your partner attempts to communicate with you using It's Like We Finish Each Other's…, you may deliberately misunderstand them. If you do, take +2 to the action you choose to believe they hinted at.",
+   "page": 51
+  },
+  {
+   "id": "where_were_you_on_the_night_of_december_1st",
+   "name": "Where Were You on the Night of December 1st?",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "pair",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "If your partner is under suspicion of an illicit activity, you've already manufactured an air-tight alibi for them.",
+   "page": 51
+  },
+  {
+   "id": "like_siblings",
+   "name": "Like Siblings",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "pair",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "It's not too uncommon for the appearance of Blades to be influenced by their Bearers. This is exceptionally true for you. When the Blade's core isn't visible, people tend to assume you are twins, similar to the extent that you can convince people you are each other.",
+   "page": 51
+  },
+  {
+   "id": "pinky_and_the_blade",
+   "name": "Pinky and the Blade",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "pair",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "One of you has a serious streak, the other is too silly to be taken seriously. The way your antics naturally bounce off each other has a way of swaying an audience, granting a +3 on checks made to do so as long as you cooperate.",
+   "page": 51
+  },
+  {
+   "id": "untouched",
+   "name": "Untouched",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Inside every living being is a well of ether… Except for you. In you, ether knows no purchase. You may have been Untouched since birth, or maybe an overwhelming etheric event fundamentally changed you. Because ether does not bind to you, you cannot be inflicted with elemental effects, detected by etheric means, or affected by ether in any way. This also means that you have no elemental affinity yourself (you cannot use or acquire affinities or their effects) and are not affected by healing magic besides your own arts and your Blade's ability to funnel their life force into you. However, thanks to your personal etheric converter, a device that would pump a lethal amount of ether into anyone that'd be bothered by that sort of thing, you can interface with the world's energy in limited ways, most notably by bonding with Blades. If you take this archetype, your attunement is permanently reduced to 0. You fail any attunement rolls automatically, and roll without attunement in checks that call for it along with other attributes. Many treat ether as the most important force in the universe, powering everything from magic to technology. Though you are unable to tap this otherworldly force, you've learned to use this to your advantage.",
+   "page": 52
+  },
+  {
+   "id": "ether_filter",
+   "name": "Ether Filter",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "untouched"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You have augmented your etheric converter with a filter that allows certain magical abilities to affect you. With this, you can be healed by healing arts or empowered by positive elemental effects.",
+   "page": 52
+  },
+  {
+   "id": "etheric_reflector",
+   "name": "Etheric Reflector",
+   "rank": 6,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "untouched"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Fundamentally, your etheric converter and a synthetic Blade's ether furnace are the same technology, just for moving ether in different directions. Knowing this, you equipped your converter with a reversal valve, allowing you to store one elemental effect that hit you and unleash it at a target of your choice through an attack of your own.",
+   "page": 52
+  },
+  {
+   "id": "negative_presence",
+   "name": "Negative Presence",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "untouched"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Your ether well has deteriorated to the point where, beyond being empty, it has turned into an active ether sink. Ether around you becomes destabilized and ineffective, and highly etheric beings such as Blades are instinctively repulsed by you. Blades other than your own will be pushed away one square should you move into a square adjacent to theirs.",
+   "page": 52
+  },
+  {
+   "id": "telethial",
+   "name": "Telethial",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype",
+   "kind": "general",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "No one is quite sure why this happens, but sometimes, before one is born, they absorb an inordinate amount of ether in the womb. It happens rarely, and there is no apparent commonality between location, environmental conditions, lineage, or even species when it does. You, and the others who have an abnormally high level of ether stored within, are Telethial. When you are knocked unconscious, or whenever you choose to give up control of your body, you transform into a Telethia, a translucent, green monster made of pure ether. While in this form, you use an art of your choice every turn regardless of cooldowns, but you cannot fully control your actions. On a successful hit, you strike your intended target for normal damage, but on a failure, the art strikes an ally of the Architect's choice with the number of successes you needed to pass the attack check. After three turns in this form, you return to your normal form, unconscious. You permanently have small, green, glowing wings on your back, though they have no weight and can easily be hidden by clothing. The more powerful you grow, the more powerful your Telethial form becomes as well. You can only wonder if your will is enough to keep it subdued.",
+   "page": 53
+  },
+  {
+   "id": "drakos_wings",
+   "name": "Drakos' Wings",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "telethial"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Your Telethial wings let you ride the ether currents, enabling you to fly. Once per combat, you may take to the air, doubling your movement speed for three turns and ignoring impassable terrain. When you fly, your wings expand significantly, becoming temporarily impossible to hide.",
+   "page": 53
+  },
+  {
+   "id": "soul_read",
+   "name": "Soul Read",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "telethial"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "Once per combat you can tap into your latent power and read your enemy's soul, enabling you to reroll a failed attack or defense. If you take this talent, your eyes turn emerald green, unnatural in hue and brightness on close inspection, distinct from even across the battlefield when you invoke your power.",
+   "page": 53
+  },
+  {
+   "id": "disciples_control",
+   "name": "Disciple's Control",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "telethial"
+   },
+   "creation_only": false,
+   "excludes": [
+    "endbringers_power"
+   ],
+   "per": null,
+   "repeatable": false,
+   "text": "You have trained day and night to gain control over the Telethia within. When you roll a near miss to land an art in Telethial form, you wrest control from the beast at the last second, forcing the attack off course where it hurts no one. If you take this talent, you can now turn the tiny wings on your back invisible with intense concentration.",
+   "page": 53
+  },
+  {
+   "id": "endbringers_power",
+   "name": "Endbringer's Power",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "bearer",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "telethial"
+   },
+   "creation_only": false,
+   "excludes": [
+    "disciples_control"
+   ],
+   "per": null,
+   "repeatable": false,
+   "text": "Your Telethial form draws yet more strength from the land around you. Each time you attack in that form, you siphon all of the ether in a 3x3 area, turning the land barren and gray and adding 3 damage to your arts, whether they hit your desired target or not. If you take this talent, the tips of your fingers become permanently Telethial, green with yellow sparks of ether, though you could hide them with gloves.",
+   "page": 53
+  },
+  {
+   "id": "artificial_core",
+   "name": "Artificial Core",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "In order to become a Bearer, a person needs the potential to bond with Blades. Therefore, any would-be Bearers lacking it were left completely out of luck. That was, however, until a determined ponop inventor refused to let that stop him. He created the first completely synthetic Blade, whose design was an early inspiration for yours. Rather than a core, you are powered by an ether furnace housed in your manufactured body. As an autonomous construct, you are not reliant on your Bearer's energy to keep moving, able to continue functioning even if they are knocked unconscious. When your Bearer is not in combat, you may move movement + 2 squares per turn and do not take any radius or out-of-radius penalties. However, your artificiality means you cannot share your life force to revive your Bearer. Nevertheless, whether it's because of your programming or your own feelings, your bond with your Bearer is as real as any other Blade's. Natural Blades might be a tried-and-tested formula, but you can always improve on an old standby! You're always looking for ways to get better.",
+   "page": 55
+  },
+  {
+   "id": "pop_n_swap",
+   "name": "Pop-'n'-Swap",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "artificial_core"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Whenever you have downtime, you may temporarily swap your core's elemental affinity, temporarily trading access to one element's unique elemental effect and elemental mastery field skill for another. You cannot add your temporary element's shared elemental effect to an art, and instances of your normal element's shared skill work as if you had not swapped.",
+   "page": 55
+  },
+  {
+   "id": "extra_efficient_processor",
+   "name": "Extra-Efficient Processor",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "artificial_core"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "You are capable of performing tedious, repetitive tasks such as mental math, record-keeping, or tracking with ease and are not affected by exhaustion. You are guaranteed success on such tasks so long as you know how to do them and have enough time to undertake them.",
+   "page": 55
+  },
+  {
+   "id": "ether_furnace_overdrive",
+   "name": "Ether Furnace Overdrive",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "artificial_core"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "After using an art, you can immediately use another, whether or not it is off cooldown. After using this second art, it becomes unavailable for the rest of combat.",
+   "page": 55
+  },
+  {
+   "id": "flesh_eater",
+   "name": "Flesh Eater",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Though considered taboo, there is a process for infusing humanoid cells into a Blade. Maybe you were forced into this through a cruel experiment, or maybe you chose to do it in order to save your memories after your old Bearer's passing, but either way, you became a Flesh Eater. When your Bearer is knocked unconscious, and even when they eventually die, you do not retreat to your core. As such, you have a separate dead box from your Bearer. When your Bearer is not in combat, as you do not need to etherically sustain them, you may move movement + 2 squares per turn and do not take any radius or out-of-radius penalties. However, you cannot use life force sharing to save your Bearer more than once per combat, and someday, like all living beings, the life within you will fade. You may have a longer lifespan than the average human, but you are still mortal. Between the social stigma, the limited lifespan, and the mourning that other Blades never have to do, you have likely been dealt a rough hand. However, it's not like being a Flesh Eater doesn't come with any perks. Your existence as a being who is part humanoid, part Blade grants you access to some unique powers.",
+   "page": 56
+  },
+  {
+   "id": "lease_on_life",
+   "name": "Lease on Life",
+   "rank": 5,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "flesh_eater"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "Your living cells allow you to temporarily take on the role of Bearer. When a Bearer in your party is knocked unconscious, you may allow one of their Blades to avoid retreating into their core by acting as their Bearer. Their radii now revolve around you, and together you can perform special attacks using their special dice, which remain separate from the pool you share with your Bearer. Attacks from your temporary Blade grant them special points, but your attacks only increase your and your Bearer's pool. You may only have one temporary Blade at a time. If you are knocked unconscious, you can no longer sustain the bond, and that Blade retreats into their core.",
+   "page": 56
+  },
+  {
+   "id": "bond_forged_in_battle",
+   "name": "Bond Forged in Battle",
+   "rank": 2,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "flesh_eater"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "As a Flesh Eater, your bond with your Bearer is made by choice, not by etheric covenant. Once per combat, you can choose to act as a different Bearer's Blade for the rest of combat. If your normal Bearer is unconscious, you contribute your special meter to your new Bearer's; otherwise, it stays with your normal Bearer.",
+   "page": 56
+  },
+  {
+   "id": "carry_on",
+   "name": "Carry On",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "general",
+   "role": "blade",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "flesh_eater"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "arc",
+   "repeatable": false,
+   "text": "Flesh Eaters do not lose their memories when their Bearers pass, and with enough time, even memories long forgotten may occasionally come back. Once per arc, your memories aid you, and you may ask the Architect a question. If you can justify how your experience with a previous Bearer gave you the knowledge you seek, the Architect will answer honestly.",
+   "page": 56
+  },
+  {
+   "id": "dying_devotion",
+   "name": "Dying Devotion",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "In a Bearer's would-be final moments, their Blade can, if they act fast enough, split their core with their Bearer to save their life. It is a process that requires a high degree of precision, but when successful, the Bearer lives on, sharing their Blade's life force forever. This is exactly what happened to the two of you. You now share one pool of HP, the sum of your individual maximums. Any damage dealt to one of you is now dealt to both of you. Therefore, when the Bearer among you dies, the Blade's core is shattered, gone with their partner. Bearer, you are for all intents and purposes now part Blade, allowing you to purchase the following Blade-only talents: Ghost Factory, Living Amalgam, Premonitions, Forgotten Flash. Blade, your eternal bond with your Bearer allows you to purchase the following Bearer-only talents: Summon Art, Bondsight, Bond Sever, Cut the Cord.",
+   "page": 58
+  },
+  {
+   "id": "body_core_soul",
+   "name": "Body, Core, and Soul",
+   "rank": 1,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype",
+   "kind": "general",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": null
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": "combat",
+   "repeatable": false,
+   "text": "The bond you share transcends ties of ether, lattices of crystal, and even the barriers of flesh and identity, so deep that your partner is as much yourself as you are. So complete is your trust in each other that, so long as your affinity is not negative, you can break down the walls of your individual selves and become one, a being neither Bearer nor Blade but simply you. To take a rolled action in this form, both players must write down their intended act without discussing them and reveal them at the same time. If the two courses of action cannot reasonably reconcile or co-occur, you lose your synchronization and are forced out of merged form and take -1 to your affinity. If your action is mutual, you perform it using the better of your relevant attributes and bonuses (not including your affinity bonus). If either player writes down their intent to separate, the fusion ends that turn without an affinity penalty. For each action performed successfully in this merged state, you gain a +1 to future merged actions up to a maximum of +3. Merging may only be performed once per combat (or with a length of recovery at the Architect's discretion). If you merge in combat, you use the Bearer's movement properties, and must start and end your merge with the Blade in their first radius. Either partner may initiate a merge as their action, though it must be mutual. Use the non-initiating partner's turn as your merged-form turn, returning to your normal turn order positions when you separate. Following a reconciliation burst, you may immediately fuse, merging in the aftermath of the special attack. If you do, take your first merged turn on the next turn available to you and your partner.",
+   "page": 59
+  },
+  {
+   "id": "sword_cross",
+   "name": "Sword Cross",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "body_core_soul"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "In your merged state, you are more than the sum of your parts. Once you have reached a +3 merge bonus, you may draw both of your etheric weapons and execute the special art \"Sword Cross,\" which has the tags Potency +1, Line Attack, Perfect Topple (targets are toppled even if they are not broken or dodge this art attack), Range +∞, and Precise Attack. Performing this art ends your merge without an affinity penalty.",
+   "page": 59
+  },
+  {
+   "id": "resynchronize",
+   "name": "Resynchronize",
+   "rank": 4,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "body_core_soul"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "The first time you fail to agree on an action during a merge, instead of being forced out of your merge and taking an affinity penalty, you may choose to either stay merged and take no action that turn or unmerge without taking an affinity penalty.",
+   "page": 59
+  },
+  {
+   "id": "explosive_emotion",
+   "name": "Explosive Emotion",
+   "rank": 3,
+   "rank_min": null,
+   "rank_max": null,
+   "category": "archetype_talent",
+   "kind": "combat",
+   "role": "pair",
+   "requires": {
+    "attributes": {},
+    "talents": [],
+    "archetype": "body_core_soul"
+   },
+   "creation_only": false,
+   "excludes": [],
+   "per": null,
+   "repeatable": false,
+   "text": "By further strengthening your bond, you have learned to channel the excess ether energy lost in merging. When you initiate a merge, you unleash a wave of ether, dealing damage equal to your current affinity bonus to all enemies within the 3x3 square centered on you.",
+   "page": 59
+  }
+ ]
+}

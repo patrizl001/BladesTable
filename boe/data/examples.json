@@ -1,0 +1,228 @@
+{
+ "bonds": [
+  {
+   "name": "Best Friend",
+   "text": "You have shared interests and opinions that encourage and embolden you, but it can be especially difficult to face disagreement or rejection from one so alike you."
+  },
+  {
+   "name": "Coworker",
+   "text": "You know how to operate with perfect effectiveness and efficiency together, but it's just business. The obligation you share seems to block you from getting closer."
+  },
+  {
+   "name": "I Hate Their Guts",
+   "text": "In their own, obnoxious way, they push you to rise above them, though you'd never tell them this, and that doesn't stop them from pissing you off."
+  },
+  {
+   "name": "Leader",
+   "text": "You trust their plans and work at your best with them telling you what to do next. Unfortunately, they have a pesky habit of pinning their failures on you."
+  },
+  {
+   "name": "Lover",
+   "text": "Love brings all the joy in the world, and you know they would stop at nothing to aid you. The intimacy you share, however, makes it all the more painful when things go wrong or they fail to live up to your enamored expectations."
+  },
+  {
+   "name": "My Mentee",
+   "text": "You receive guidance from your teacher, and go to them when you're not sure what to do next. However, they often disregard your opinion when you disagree."
+  },
+  {
+   "name": "My Mentor",
+   "text": "Your student will listen to you and trust what you have to say, but too often they expect answers from you that you could not possibly have."
+  },
+  {
+   "name": "My Guardian",
+   "text": "You know, should you step into harm's way, they will be there to save you. To you, though, their dedication is little more than a frustrating obsession and a limit on your freedom, and it often pushes you into dangers you otherwise would have avoided."
+  },
+  {
+   "name": "My Ward",
+   "text": "You'll stop at nothing to keep them safe and watch them thrive. However, your single-minded focus can blind you to more important things, including the situation at hand and even their happiness."
+  },
+  {
+   "name": "Owe Them a Debt",
+   "text": "Without them, you would not be here, which is a benefit well worth remembering. Of course, the duty you feel to their cause can present all sorts of problems."
+  },
+  {
+   "name": "Rival",
+   "text": "Nothing stokes the fire within you quite like rising to beat their challenge. When you butt heads, though, it can cause far more trouble than they're worth."
+  },
+  {
+   "name": "Uneasy Ally",
+   "text": "They draw your curiosity, and you know the potential they bring could be beyond even your wildest expectations. Deep down, though, you wonder if you can truly trust them."
+  },
+  {
+   "name": "Unrequited Love",
+   "text": "Oh, how you adore them, how their presence can make even the greatest tragedy seem alright. How your heart sinks when you remember they don't feel the same…"
+  }
+ ],
+ "field_skills": [
+  {
+   "name": "Animal Handling",
+   "text": "an understanding of animal behavior, taming, and care."
+  },
+  {
+   "name": "Animalspeak",
+   "text": "the ability to speak to animals."
+  },
+  {
+   "name": "Birdbrain",
+   "text": "the ability to miraculously forget anything, no matter how important."
+  },
+  {
+   "name": "Blue-Bellied Bird Squid",
+   "text": "you have a profoundly deep understanding of this particular type of flying squid that lives in the seas near your Titan in the winter."
+  },
+  {
+   "name": "Charisma",
+   "text": "you've got a lot of energy and charisma, and people tend to enjoy being around you."
+  },
+  {
+   "name": "Cooking",
+   "text": "skill with all forms of cooking and food preparation."
+  },
+  {
+   "name": "\"Cooking\"",
+   "text": "\"skill\" with \"all\" forms of \"cooking\" and \"food\" preparation."
+  },
+  {
+   "name": "Elemental Mastery",
+   "text": "the ability to manipulate an element with a great degree of control and precision."
+  },
+  {
+   "name": "Eye for Weapons",
+   "text": "you know a ton about weapons and can spout off facts about any given blade. Wielding them is a different matter entirely, though."
+  },
+  {
+   "name": "Forestry",
+   "text": "knowledge of trees, forests, and lumber."
+  },
+  {
+   "name": "Mapmaking",
+   "text": "you make beautifully rendered maps of the environment around you."
+  },
+  {
+   "name": "Medicine",
+   "text": "knowledge of bodily functions, curative herbs, and medicinal treatments."
+  },
+  {
+   "name": "Medicine(?)",
+   "text": "knowledge of ethically dubious tinctures, questionable potions, and experimental theories you haven't been able to test."
+  },
+  {
+   "name": "Painting",
+   "text": "the ability to put brush to canvas and create works of visual art."
+  },
+  {
+   "name": "Sea of Clouds",
+   "text": "the tides, creatures, and ebb and flow of the sea of clouds."
+  }
+ ],
+ "titans": [
+  {
+   "name": "Gentarum",
+   "text": "Gentarum is technically not a Titan, but a number of smaller Titans all holding up a man-made floating city. Although the actual livable area of this city is much smaller than what is afforded to most societies on larger Titans, it is extremely densely populated, housing a people numbering in the millions. A massive ship as much as it is a city, Gentarum can be steered around freely, although it tends to stick to a set path around the World Tree so travelers are able to find it easily. The city serves as one of the largest economic hubs in the world, and goods from all over can be bought and sold there. Fittingly, Gentarum is ruled by a council of its most successful merchants, but the council's corruption runs deep, with laws being crafted to benefit only the richest. Despite the rules, weapons and other dangerous goods can be traded for in any number of the city's darkest alleys, so long as one knows where to look. Thus, quality of life in Gentarum can vary wildly. Those with coin to spare find the finest of lodgings and food available with an unmatched degree of convenience, the rest left to simply fight for whatever scraps remain. The political landscape is tense, with many calling for change, but those who profit in Gentarum are very invested in maintaining its status quo at all costs."
+  },
+  {
+   "name": "Morgot",
+   "text": "Morgot is one of the largest Titans in existence. Its long, giraffe-like body is almost completely covered in grasslands. The inhabitants have access to a large amount of farmable land, making it largely agricultural. Although humans and ponop alike reside on Morgot, they are far outnumbered by the morgotti, humanoid people with cat-like ears, light fur, and claws. The biggest threat to the people of Morgot was once the large beasts that roam the land, but the Empire of Mordania turned its eyes towards the grassy Titan's plentiful natural resources, with its military arm soon following. With little defense to speak of, the people of Morgot were unable to fight back against the sudden invasion, and have been forced to live under the thumb of the occupying Empire and its exploitative ideals for years."
+  },
+  {
+   "name": "Raya",
+   "text": "The whale Titan Raya resides below the Cloud Sea, making living on the Titan's back impossible, which is why its inhabitants live within it. So long as one avoids the areas with high levels of stomach acid, Raya's innards are surprisingly habitable, if rather uncomfortable. The Titan only surfaces to eat, however, so arrivals and departures can be challenging. It's much more common to find new arrivals in Raya's mouth than in the proper ports of entry carved into the stone hide of the beast. Sapient species are not the only ones who take advantage of Raya's habitability. Attacks by neighboring monsters are a common problem for all of the whale's towns and cities. Some, like the Frontguard Village, arm themselves, creating barricades and organizing guard troops to ensure the inhabitants don't get attacked. Others, like the capital city of Aym Safon, build their city structures vertically, making it all but impossible for beasts to reach them. Despite the difficulty of entering the cloudlogged Titan and the danger that can be found in its less-inhabited areas, Raya is not to be missed by the dedicated Titan tourist. The breathtaking bioluminescent flora that grows in these odd conditions are worth trekking to find, and inhabited areas are surprisingly peaceful and relaxed. However, mounting political tensions with Mordania cast the shadow of impending war over Raya's many inhabitants."
+  },
+  {
+   "name": "Mordania",
+   "text": "The bipedal humanoid Mordania looms over most other Titans, cutting an intimidating silhouette from even across the horizon. The capital of the Empire that shares its Titan's name is perched precariously atop the giant's shoulder, from which hang the remnants of its long-severed arm. Mordania is dying; the wounds it has taken in the Empire's battles, the overharvesting of its limited resources, and the Empire's ecologically devastating large-scale weapons manufacturing have seen to that. What little land is habitable at all is desolate, difficult to navigate, faced with extreme heat and water shortages, and plagued by social trouble, making life for the Empire's average inhabitant difficult. The ruling class of Mordania, meanwhile, has fought war after war to enrich themselves at the expense of every other denizen of Arlest, their own citizens included. The populace is deeply divided, some willing to accept these atrocities for nationalist pride or a misguided belief that someday they will share in the Empire's spoils, but just as many one push away from rising up against the Imperial banner. It is rumored that the rulers of Mordania's empire intend to abandon their dying Titan by overtaking another one… unless they fall in the brewing civil war first."
+  },
+  {
+   "name": "Leftria",
+   "text": "Leftria is the collective name of a group of symbiotically linked jellyfish-like Titans that are theorized to share a single mind. The tops of the Titans and their linking tendrils reside above the surface of the Cloud Sea, allowing them to be easily traversed on foot. This results in a archipelago-like landmass, highly unique in a sea of continental Titans. The resources on Leftria aren't plentiful, but they're more than enough to support the tiny villages that reside there. Its lack of any real tactical value or unique specialty goods means Leftria is largely ignored by bigger nations, making life there incredibly peaceful, save for the occasional monster attack. While Leftria's elderly treasure peace, the young often grow tired of the quiet, and many who grow up there leave for adventure. Should they return at journey's end, of course, they will find open beds and warm welcomes."
+  },
+  {
+   "name": "Idnol",
+   "text": "The draconic Titan of Idnol flies high above the Cloud Sea, and as a result, only aerial Titans and machines can reach its surface. This natural barrier means the people of Idnol are largely safe from attack, but rather than use it to military advantage, they use it to maintain a permanent neutrality in all inter-Titan conflicts. As the Cloud Sea's self-appointed conflict arbiter, Idnol takes in refugees from all over the world, giving the land a population as diverse as Gentarum, but many Idnoline-born hold attitudes as isolating as their military policy. The ruler of the Idnoline theocracy is known as the Praetor, and they are believed to be personally appointed by the Architect themself. Although this is touted as a method on which no mortal man has influence, there will always be politicking where power is to be had. The deals, betrayals, and even assassinations that lead to the current leader, however, are unknown to the general public, if frequently speculated on. Indeed, the rumors surrounding the Praetor are nigh on endless. Many believe that the Praetor uses Idnol's refugees for highly unethical experiments, and many more espouse that they use the shield of an alleged neutrality to secretly manipulate wars for their advantage. Taken together, it is easy to see the Architect's so-called chosen ruler in a far more sinister light than they would like."
+  },
+  {
+   "name": "Bengu",
+   "text": "Bengu is a bit of an odd case for an inhabited Titan, as Bengu is dead, and has been for hundreds of years. Once upon a time, many lived on the back of the giant turtle. Following its death, the remaining inhabitants crawled into its insides and used stolen Ronat technology to craft an etheric control device to replace the Titan's brain. This device was embedded inside a Blade, which is passed down from each ruling family monarch to their eldest child with potential. As Bengu is no longer able to feed the environment with its ether, everything inside is slowly dying, and the environment grows colder and colder. Out of a sense of sheer stubbornness, the royal family refuses to ask for aid from other Titans, and Bengu rarely surfaces. The people of Bengu worry about a slow death as their resources dwindle generation after generation."
+  },
+  {
+   "name": "Ronat",
+   "text": "The large, serpent-like Ronat began its life as a particularly violent Titan, attacking and consuming other Titans to feed itself. In ages past, an ancient ruling monarch was able to weave lines of ether around it, rendering it docile and bringing peace to the country. Since then, the Titan has remained contained, and its plentiful resources have kept its inhabitants comfortably fed and housed. Ronat's womb is particularly fertile, and the serpent produces an exceptionally high number of Blade cores each year. In fact, it is said that Ronat sees ten times more new Blades than the average Titan. Naturally, Bearers are an extremely frequent sight throughout Ronat's cities. The density of capable partners plus the sheer strength of the Titan itself deters other nations from attacking, so those who desire Ronat's resources are forced to barter rather than fight."
+  },
+  {
+   "name": "The Waning Warriors",
+   "text": "On the far side of the Cloud Sea, two Titans stand locked in a timeless battle. Vanishingly little is known about this humanoid pair, but the few travelers who have made the journey and returned to speak of it all agree on one thing: these Titans are dead, towering in their endless stalemate, one's six-mile sword plunged into the other's chest and its severed arm laying lifeless in the sea as perhaps the only true island in all Arlest. The handful of adventurers who've disembarked on the sword-struck Titan saw mundane societies not unlike ones in familiar waters. However, its opponent remains shrouded in mystery. An entirely mechanical Titan, accounts claim, despite the obvious impossibility of such a feat. Who could have created this simulacrum, and what manner of being, if any, might call it home? Indeed, the Waning Warriors, as many have come to call them, inspire endless questions in all who hear their story. What caused these giants to battle? What will happen to their corpses in the eons to come? Do the peoples of the mechanical Titan, if they even exist, live in harmony with their neighbors, or does the Titanic duel that preceded them continue even now in the form of war? Is the story of these twin Titans more than a myth? And what became of the other titanic weapon? Someday these questions may be answered, but for now, the truth is simply too far away."
+  }
+ ],
+ "titan_questions": [
+  {
+   "name": "What is the Titan's shape?",
+   "text": "Titans come in many forms, usually shaped like animals or mythological creatures. The answer to this question should also determine how, or if, the Titan traverses the Cloud Sea, how large the Titan is, and whether the Titan resides above, below, or amid the clouds."
+  },
+  {
+   "name": "How many people live here?",
+   "text": "Does this Titan house millions, or is there only one small village on its back? Maybe no one lives here, and the Titan is either completely uninhabitable or home to only animals. This question should also determine why the population is what it is. Is this Titan undiscovered? Does it have plentiful resources that allow for a huge population? Or was it home to many people until some calamity hit?"
+  },
+  {
+   "name": "Who lives here?",
+   "text": "Arlest isn't just populated by humans. It isn't just populated by Blades, morgotti, or ponop either. The world is full of all sorts of sapient (and non-sapient) life! Maybe this Titan is populated by talking cats and floating squids with bulging brains. If your answer to the previous question is zero and the Titan was previously undiscovered, you may skip this question. If it's zero due to a cataclysmic event, however, who used to live here?"
+  },
+  {
+   "name": "What is the ecosystem like?",
+   "text": "Animals, plant life, and climate. The etheric flow of a Titan heavily influences the weather, temperature, and topography on top of and within it, and this, in turn, impacts what life will thrive (if any)."
+  },
+  {
+   "name": "What is the population's governmental structure?",
+   "text": "Almost all populated Titans' governments function entirely independently of each other. As such, there are a large variety of ruling structures across the Cloud Sea. Monarchies, democracies, anarchies, authoritarian states — all can be found, and all with varying levels of success. Some places may be practically utopias, others dens of horrid corruption. It is also possible that the people of this Titan are not united, and multiple governments exist on it. If the population of this Titan is zero due to a cataclysmic event, what used to be the governmental structure?"
+  },
+  {
+   "name": "How are Blades treated?",
+   "text": "Although some Titans produce more cores than others, Blades exist within every Titan. As they contain a great deal of power, they are integral to almost every society. They may be treated exclusively as living weapons to be controlled, or rightfully dealt with as living people, afforded as many rights as anyone else. Maybe the people of your Titan consider Blades to be just too dangerous and store cores in safehouses, never to be forged. Perhaps the number of Blades is just too low for it to be reasonable to test people for potential, making Blades an extremely rare sight. As all players are either Bearers or Blades themselves, this is a very important question to answer."
+  },
+  {
+   "name": "What is this Titan known for?",
+   "text": "Maybe there are beautiful gems that can only be mined within this Titan, or maybe the large waterfalls decorating the landscape are one of the most stunning sights on the Cloud Sea. Unless a Titan is completely undiscovered, there is something it is known for, even if only in small circles or to the inhabitants of Titans that pass nearby."
+  },
+  {
+   "name": "What dangers are facing this Titan?",
+   "text": "Resources could be running thin. Civil war could be on the horizon. The Titan could be sick. There are numerous perils facing the people of Arlest, and almost no Titan is free of them. You may choose to answer this question with \"none,\" but, if you are creating many Titans, be careful not to do this too often. If you are the Architect and you are collaboratively creating Titans, you may or may not want to answer this question yourself and keep it secret."
+  }
+ ],
+ "rumors": {
+  "above_world_tree": [
+   {
+    "name": "Paradise",
+    "text": "bountiful fields with unlimited resources, perfect weather all the time, and lost technology that could completely automate away all of life's hardships. It could be that the Architect built this place as a reward for anyone that could reach it, that people used to live here but left for some reason, or that people still live here and are hoarding this land for themselves. Ultimately, only the Architect knows why paradise lies there."
+   },
+   {
+    "name": "Space Station",
+    "text": "full of long-lost technology, the World Tree holds what remains of the final stand humanity made against a forgotten world-ending threat. Although once fit for human life, it long ago grew barren, with the only useful resource being the unknown technologies that could be retrieved if only someone could reach them. Some rumors even state that the Architect themself still resides up there, clinging to life after countless years."
+   },
+   {
+    "name": "Life's Cradle",
+    "text": "all life started from here, and has since migrated down to the Cloud Sea. There isn't much left to see up there now, but there are still many scientific questions that could be answered by proving this rumor true."
+   },
+   {
+    "name": "Branches",
+    "text": "the World Tree is… just a tree. But left alone for all these years, what could possibly call it home? What strange life has developed clinging to the boughs above the sky?"
+   }
+  ],
+  "beneath_cloud_sea": [
+   {
+    "name": "Ancient Ruins",
+    "text": "before the era of Titans, people lived comfortably on a surface that no living person has ever seen. There may be priceless technologies down there, or perhaps the world above is more advanced than that one ever became."
+   },
+   {
+    "name": "Living Societies",
+    "text": "the surface of the planet, despite a complete lack of sun, is completely habitable. Life may be better or worse down there than on the backs of Titans, but much like the people above lack the technology to reach the land, those from below lack the technology to leave solid ground. These rumors tend to be popular with those close to people who have been lost at sea, as the thought that their loved ones may be alive somewhere is a happy one."
+   },
+   {
+    "name": "Dimensional Tear",
+    "text": "this rumor claims that there is a rip in the universe below the sea. Things randomly float in and out, but its destination changes by the second, with no guarantee of ever seeing Arlest again. Despite being an inarguably fantastical theory, it would be a good explanation for some of the weirder things salvagers have found, and thus it has found many feverish believers."
+   },
+   {
+    "name": "Titan Corpses",
+    "text": "the most mundane, if incomplete, theory is that the ocean floor is littered with corpses of fallen Titans and the nations they once housed. There is reason to believe this, after all, as dead titans inevitably fall, so there must be many corpses in the cloudy depths. But to say that it is only corpses does not explain the things pulled from beneath the clouds. It cannot explain the technology bearing crests of empires that never were, nor the crafts made with flawless precision that no one can emulate or even explain. Perhaps this is only part of the truth."
+   }
+  ]
+ }
+}

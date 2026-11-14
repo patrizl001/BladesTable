@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>Blades Table</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#center">Skip to table</a>
+
+<!-- shared SVG defs (gradients/filters referenced by dice, tokens, badges) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="gDie" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a3a78"/><stop offset="1" stop-color="#121b44"/>
+    </linearGradient>
+    <linearGradient id="gDieHit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff6c8"/><stop offset=".55" stop-color="#7ff5e4"/><stop offset="1" stop-color="#2fb5d6"/>
+    </linearGradient>
+    <linearGradient id="gDieEmpty" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a2352"/><stop offset="1" stop-color="#0f1638"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+<header class="top" id="top">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><polygon points="16,1 28,10 24,28 8,28 4,10" fill="none" stroke="currentColor" stroke-width="2"/><polygon points="16,7 22,12 20,22 12,22 10,12" fill="currentColor" opacity=".85"/></svg>
+    <div class="titles">
+      <h1 id="campName">Blades Table</h1>
+      <p id="sessionLine" class="sub">Connecting to the table…</p>
+    </div>
+  </div>
+  <div class="topright">
+    <span id="gmBadge" class="gmbadge" hidden>GM VIEW &mdash; spoilers visible</span>
+    <button id="spoilerBtn" class="switch" role="switch" aria-checked="false" type="button" title="Show GM-only information (spoilers). Not remembered after reload.">
+      <span class="knob" aria-hidden="true"></span><span class="swlabel">Spoilers</span>
+    </button>
+    <span id="conn" class="conn" data-state="connecting" role="status" aria-live="polite">
+      <span class="dot" aria-hidden="true"></span><span id="connText">connecting</span>
+    </span>
+  </div>
+</header>
+
+<div class="app" id="app">
+  <aside id="party" class="col party" aria-label="Party" data-scroll="party"></aside>
+  <main id="center" class="col center" aria-label="Scene and battle map" data-scroll="center"></main>
+  <aside id="side" class="col side" aria-label="Dice and records" data-scroll="side"></aside>
+</div>
+
+<div id="tip" class="tip" role="tooltip" hidden></div>
+<noscript><p style="padding:2rem">Blades Table needs JavaScript (no network access required).</p></noscript>
+<script src="app.js" defer></script>
+</body>
+</html>

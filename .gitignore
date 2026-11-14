@@ -1,0 +1,22 @@
+# environments / caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# local play data and scratch (campaign saves normally live in ~/.local/share/blades-table)
+.local-data/
+*.log
+*.tar.gz
+
+# the rulebook is not redistributed here
+*.pdf
+rulebook.txt
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,260 @@
+{
+ "enemies": [
+  {
+   "id": "pack_animal",
+   "name": "Pack Animal",
+   "role": "other",
+   "attack": {
+    "dis": 1,
+    "normal": 2,
+    "adv": 3
+   },
+   "defense": {
+    "dis": 0,
+    "normal": 1,
+    "adv": 2
+   },
+   "hp": 5,
+   "movement": 3,
+   "initiative": 3,
+   "affinities": [],
+   "best_attributes": [
+    "gut"
+   ],
+   "art_tags": [
+    "break"
+   ],
+   "special_abilities": [
+    {
+     "name": "Howl",
+     "text": "Once per combat, this animal may let out a loud cry, bringing two more animals from the same pack running into combat. Only one pack animal may use this ability."
+    }
+   ],
+   "notes": "Pack animals tend to travel in groups. Most encounters utilizing them should have a minimum of three."
+  },
+  {
+   "id": "elemental_ursine",
+   "name": "Elemental Ursine",
+   "role": "other",
+   "attack": {
+    "dis": 2,
+    "normal": 3,
+    "adv": 4
+   },
+   "defense": {
+    "dis": 1,
+    "normal": 2,
+    "adv": 3
+   },
+   "hp": 16,
+   "movement": 4,
+   "initiative": 3,
+   "affinities": [],
+   "best_attributes": [
+    "gut",
+    "stamina"
+   ],
+   "art_tags": [
+    "unique_effect"
+   ],
+   "special_abilities": [
+    {
+     "name": "Elemental Shift",
+     "text": "During its turn, this creature may freely change its elemental affinity."
+    }
+   ],
+   "notes": "Ursine are afraid of things larger than them and will be hesitant to approach large creatures. Affinities: See special abilities."
+  },
+  {
+   "id": "novice_bearer",
+   "name": "Novice Bearer",
+   "role": "bearer",
+   "attack": {
+    "dis": 1,
+    "normal": 1,
+    "adv": 2
+   },
+   "defense": {
+    "dis": 0,
+    "normal": 0,
+    "adv": 1
+   },
+   "hp": 5,
+   "movement": 3,
+   "initiative": 2,
+   "affinities": [],
+   "best_attributes": [],
+   "art_tags": [],
+   "special_abilities": [
+    {
+     "name": "Special Attack",
+     "text": "Once in combat, hit a 3x3 square with an attack of 3 (only if their Blade is fighting too)."
+    }
+   ],
+   "notes": "This Bearer should be roughly equal in strength to a freshly-rolled Bearer made with the Fresh Face guidelines. Affinities: Pick one. Best attributes: Pick any one or two. Art tags: Pick three."
+  },
+  {
+   "id": "forgeling_blade",
+   "name": "Forgeling Blade",
+   "role": "blade",
+   "attack": {
+    "dis": 1,
+    "normal": 1,
+    "adv": 2
+   },
+   "defense": {
+    "dis": 0,
+    "normal": 0,
+    "adv": 1
+   },
+   "hp": 5,
+   "movement": 1,
+   "initiative": 2,
+   "affinities": [],
+   "best_attributes": [],
+   "art_tags": [],
+   "special_abilities": [
+    {
+     "name": "Special Attack",
+     "text": "Once in combat, hit a 3x3 square with an attack 3 (only if their Bearer is fighting too)."
+    }
+   ],
+   "notes": "This Blade should be roughly equal in strength to a freshly-rolled Blade made with the Fresh Face guidelines. Affinities: Pick one. Best attributes: Pick any one or two. Art tags: Pick three."
+  },
+  {
+   "id": "blade_eater",
+   "name": "Blade Eater",
+   "role": "bearer",
+   "attack": {
+    "dis": 2,
+    "normal": 3,
+    "adv": 4
+   },
+   "defense": {
+    "dis": 1,
+    "normal": 2,
+    "adv": 2
+   },
+   "hp": 15,
+   "movement": 5,
+   "initiative": 3,
+   "affinities": [],
+   "best_attributes": [],
+   "art_tags": [
+    "unique_effect",
+    "break",
+    "topple",
+    "launch",
+    "stagger",
+    "rush"
+   ],
+   "special_abilities": [
+    {
+     "name": "Radius Hop",
+     "text": "Move up to two squares before attacking, then move four more after."
+    }
+   ],
+   "notes": "The Blade Eater has properties of both a Bearer and Blade, but can be overconfident. Affinities: Pick one to three. Best attributes: Pick any one or two."
+  },
+  {
+   "id": "legendary_bearer",
+   "name": "Legendary Bearer",
+   "role": "bearer",
+   "attack": {
+    "dis": 4,
+    "normal": 5,
+    "adv": 7
+   },
+   "defense": {
+    "dis": 4,
+    "normal": 5,
+    "adv": 7
+   },
+   "hp": 25,
+   "movement": 4,
+   "initiative": 4,
+   "affinities": [],
+   "best_attributes": [],
+   "art_tags": [],
+   "special_abilities": [
+    {
+     "name": "Titan Driver",
+     "text": "Has the talent Titan Driver."
+    },
+    {
+     "name": "Special Attack",
+     "text": "Once per combat, attack 8 on a 5x5 area (only if their Blade is conscious)."
+    }
+   ],
+   "notes": "This Bearer should be a challenging boss encounter for a seasoned group. Affinities: Pick one to three. Best attributes: Pick any one or two. Art tags: Use as many as you'd like."
+  },
+  {
+   "id": "titanic_blade",
+   "name": "Titanic Blade",
+   "role": "blade",
+   "attack": {
+    "dis": 4,
+    "normal": 5,
+    "adv": 7
+   },
+   "defense": {
+    "dis": 4,
+    "normal": 5,
+    "adv": 7
+   },
+   "hp": 25,
+   "movement": 2,
+   "initiative": 5,
+   "affinities": [],
+   "best_attributes": [],
+   "art_tags": [],
+   "special_abilities": [
+    {
+     "name": "Orbital Death Beam",
+     "text": "Has the talent Orbital Death Beam."
+    },
+    {
+     "name": "Special Attack",
+     "text": "Once per combat, attack 8 on a 5x5 area (only if their Bearer is conscious)."
+    }
+   ],
+   "notes": "This Blade should be a challenging boss encounter for a seasoned group. Affinities: Pick two to four. Best attributes: Pick any one or two. Art tags: Use as many as you'd like."
+  },
+  {
+   "id": "rockbart",
+   "name": "Rockbart",
+   "role": "other",
+   "attack": {
+    "dis": 6,
+    "normal": 7,
+    "adv": 8
+   },
+   "defense": {
+    "dis": 4,
+    "normal": 5,
+    "adv": 6
+   },
+   "hp": 90,
+   "movement": 4,
+   "initiative": 10,
+   "affinities": [
+    "earth"
+   ],
+   "best_attributes": [
+    "might"
+   ],
+   "art_tags": [
+    "break",
+    "topple",
+    "launch"
+   ],
+   "special_abilities": [
+    {
+     "name": "Aggressive Scream",
+     "text": "Once per combat, gives all players -1 to all rolls until its next turn."
+    }
+   ],
+   "notes": "The Rockbart is extremely territorial. Parties should expect to treat it as a threat meant to keep them out of areas, an obstacle to sneak around, or a very challenging encounter for end-game players."
+  }
+ ]
+}
