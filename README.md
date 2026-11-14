@@ -14,7 +14,7 @@ Linux, Python 3.10+. No API key; it works with whatever Claude client you alread
 ## Install
 
 ```
-git clone https://github.com/patrizl001/blades-table && cd blades-table
+git clone https://github.com/patrizl001/BladesTable && cd BladesTable
 ./install.sh           # makes .venv (uses uv if you have it, otherwise python3 -m venv + pip)
 ```
 
@@ -91,9 +91,9 @@ The engine, server, UI shell, journal and memory layer are game-agnostic; the ru
 combat and data are specific to Blades of Ether. `ARCHITECTURE.md` maps which is which and lists the steps
 to port it to another system.
 
-## Credits and licence
+## Credits and license
 
 *Blades of Ether* is by Alexis Eva, Kaylee Maya and Ruby Soleil-Raine (gears.link/blades), released under
 CC BY-NC-SA 4.0. The rules text and data in `boe/data/` are derived from that rulebook and are shared
 under the same license (see `boe/data/NOTICE.md`); non-commercial use only. The rulebook itself is not
-included. The license for the project's own code is MIT-licensed. This is an unofficial fan project
+included. The project’s own code is MIT-licensed (see LICENSE) This is an unofficial fan project
