@@ -8,6 +8,7 @@ version = "0.1.0"
 description = "Local virtual tabletop + MCP server for running Blades of Ether solo with Claude as the Architect"
 requires-python = ">=3.10"
 dependencies = ["mcp>=2.3,<3"]
+license = "MIT"
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
